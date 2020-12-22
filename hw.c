@@ -9,7 +9,7 @@ void main(void){
 
     int a;
 
-    a = r * 2;
+    a = 2 * r;
 
     printf("\n%d\n",a);
 }
